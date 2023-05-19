@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Melanie, Web Developer from Chile.
+* 🔭 I’m currently working on 'Dhelados' [Front](https://github.com/Psyderalis/DEV002-BQ-front) and [Back](https://github.com/Psyderalis/DEV002-burger-queen-api).
+* 🌱 I’m currently learning Node.js, Express, Docker and SQL.
+
 <!--
 **Psyderalis/Psyderalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
