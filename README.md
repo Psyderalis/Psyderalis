@@ -3,6 +3,7 @@
 I'm Melanie, Web Developer from Chile.
 * 🔭 I’m currently working on 'Dhelados' [Front](https://github.com/Psyderalis/DEV002-BQ-front) and [Back](https://github.com/Psyderalis/DEV002-burger-queen-api).
 * 🌱 I’m currently learning Node.js, Express, Docker and SQL.
+* 📫 How to reach me: [melanietolvett@gmail.com](melanietolvett@gmail.com) and my [LinkedIn profile](https://www.linkedin.com/in/melanie-tolvett/).
 
 <!--
 **Psyderalis/Psyderalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
