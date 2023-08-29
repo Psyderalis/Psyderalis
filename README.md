@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 I'm Melanie, Web Developer from Chile.
+<!--
 * 🔭 I’m currently working on 'Dhelados' [Front](https://github.com/Psyderalis/DEV002-BQ-front) and [Back](https://github.com/Psyderalis/DEV002-burger-queen-api).
-* 🌱 I’m currently learning Node.js, Express, Docker and SQL.
+-->
+* 🌱 I’m currently learning Node.js and Typescript.
 * 📫 How to reach me: [melanietolvett@gmail.com](melanietolvett@gmail.com) and my [LinkedIn profile](https://www.linkedin.com/in/melanie-tolvett/).
 
 <!--
